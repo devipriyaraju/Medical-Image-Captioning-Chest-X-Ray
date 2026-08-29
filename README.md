@@ -1,4 +1,4 @@
-# NLP_Image_Captioning_Project
+#  Medical Image Captioning : Chest X-Ray
 
 Densenet_Attention.ipynb is the only file wiyth comments. The other files have almost similar codes except few changes according to the corresponding models.
 
